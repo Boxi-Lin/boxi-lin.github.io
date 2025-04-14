@@ -6,5 +6,5 @@
 ### Southern California Home Price Predictor
 [Project Files](https://github.com/Boxi-Lin/socal-home-price-predictor)
 
-Uses housing price data of Southern California homes from 2024 to the first quarter of 2025 to develop a machine learning model using Python. This project is hosted on Amazon AWS using EC2 for ease of access for the public as well, allowing users to quickly and accurately estimate the price of homes in specific areas with just the help of a Python Flask server.
+A full-stack machine learning web application that estimates home prices across Southern California based on real estate data from 2024 to early 2025. The backend is powered by a regression model built with scikit-learn and deployed via a Flask API. The frontend, designed with HTML, CSS, and JavaScript, enables users to input features such as location, square footage, bedrooms, and more. Hosted on Amazon EC2, this project demonstrates cloud deployment, API integration, and end-to-end model serving for real-world use.
 
