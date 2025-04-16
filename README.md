@@ -2,6 +2,10 @@
 
 #### Technical Skills: Python, SQL, AWS, Tableau, ML
 
+## About Me
+Hi! I’m Boxi Lin, an aspiring data scientist currently studying at Mt. San Antonio College. I’m passionate about using data to uncover insights, solve problems, and build tools that have real-world impact. I’m in the process of transferring to a four-year university to pursue a degree in data science. Over the years, I’ve built experience not just through coursework, but also through hands-on roles in team leadership, inventory systems, and customer-facing environments. I’ve applied my skills in Python, SQL, Tableau, and Excel to build projects ranging from home price prediction models to interactive dashboards. Outside of data, I’ve been playing the cello for 12 years — a discipline that’s taught me patience, focus, and how to express ideas creatively. I’m always learning, exploring new tools, and finding ways to connect technical knowledge with real-world needs. Feel free to explore my projects below — and don’t hesitate to connect!
+
+
 ## Projects
 ### Southern California Home Price Predictor
 [Project Files](https://github.com/Boxi-Lin/socal-home-price-predictor)
